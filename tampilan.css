@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(17, 17, 17);
+    font-family: 'Bricolage Grotesque';
+}
+
+.bungkus {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.input {
+    background-color: rgb(31, 31, 31);
+    padding: 15px 25px;
+    border-radius: 15px;
+    margin: 0 10px;
+    border: none;
+    color: white;
+}
+
+.calc {
+    color: white;
+    font-size: 100px;
+}
+
+.tombol {
+    width: 15.5%;
+    height: 30px;
+    background-color: rgb(31, 31, 31);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    font-family: 'Bricolage Grotesque';
+}
