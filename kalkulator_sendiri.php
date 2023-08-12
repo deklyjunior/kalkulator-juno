@@ -83,7 +83,7 @@
             <div style="margin-top:20px">
                 <tr>
                     <td>
-                        <button  class="tombol" type="submit" name="tambah">+</button>
+                        <button class="tombol" type="submit" name="tambah">+</button>
                         <button class="tombol" type="submit" name="kurang">-</button>
                         <button class="tombol" type="submit" name="kali">*</button>
                         <button class="tombol" type="submit" name="bagi">/</button>
